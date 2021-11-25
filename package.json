@@ -86,10 +86,9 @@
     "tape": "^5.3.2",
     "vnu-jar": "21.10.12",
     "wait-on": "^6.0.0"
-  }
-},
+  },
 
-{
+
   "release": {
     "branches": ["master", "next"]
   }
